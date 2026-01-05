@@ -1,5 +1,5 @@
-## Summary 
-# My--AI--idea
+## Summary
+# My-AI-idea
 AI for fair distribution of food and medicine
 
 AI for Social Good: Resource Distribution
